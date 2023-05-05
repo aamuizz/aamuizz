@@ -2,7 +2,13 @@
 <h3 align="justify">I am a Computer Science graduate with expertise in Software Development. Currently, I'm working as a Full Stack Software Developer at InTech Ventures
 </h3> 
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aamuizz&label=Profile%20views&color=0e75b6&style=flat" alt="aamuizz" /> </p>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aamuizz&count_private=true&theme=merko)
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aamuizz&" alt="aamuizz" /></p>
 
 
 ## Languages and Tools
