@@ -1,4 +1,4 @@
-<h3 align="justify">I am a Computer Science graduate with expertise in Software Development. Currently, I'm working as a Full Stack Software Developer at InTech Ventures
+<h3 align="justify">I am a Computer Science graduate with expertise in Software Development. Currently, I'm working as a Full Stack Software Developer at HCR International
 </h3> 
 
 
